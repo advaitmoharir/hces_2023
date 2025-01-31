@@ -1,6 +1,6 @@
 # Household Consumption and Expenditure Survey 2023-24
 
-This repository consists of the clean data dump generated from the latest household consumption and expenditure survey (HCES), by the NSS. The raw microdata is publicly accessible and can be downloaded [here](https://microdata.gov.in/nada43/index.php/catalog/226).
+This repository consists of the clean data dump generated from the latest household consumption and expenditure survey (HCES), by the NSS. The raw microdata is publicly accessible and can be downloaded [here](https://microdata.gov.in/nada43/index.php/catalog/226). This repo is jointly maintained by [Advait Moharir](https://github.com/advaitmoharir) and [Vijayshree Jayaraman](https://github.com/vijayshree-jayaraman).
 
 ## Repo Structure
 
