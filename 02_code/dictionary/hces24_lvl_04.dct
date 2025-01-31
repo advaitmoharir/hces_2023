@@ -1,0 +1,26 @@
+infix dictionary {
+str common_id 1-38
+    str questionnaire_num 39
+    int level 40-41
+    str used_ration 42
+    str procured_rice 43
+    str procured_wheat 44
+    str procured_grain 45
+    str procured_sugar 46
+    str procured_pulses 47
+    str procured_edible_oil 48
+    str procured_other 49
+    str online_groceries 50
+    str online_milkprod 51
+    str online_veg 52
+    str online_fruits 53
+    str online_dryfruits 54
+    str online_eggfishmeat 55
+    str online_processed_served 56
+    str online_processed_packed 57
+    str online_other 58
+    str performed_ceremony 59
+    int meals_nonhh 60-63
+    double multiplier 64-78
+}
+

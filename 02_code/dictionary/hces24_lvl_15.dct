@@ -1,0 +1,15 @@
+infix dictionary {
+	str common_id 1-38
+    str questionnaire_num 39
+    str  visit  40
+    int level 41-42
+    str section 43-44
+    int time_taken 45-47
+    double hh_usual_cons_exp_mnth 48-55
+    double tot_online_exp 56-63
+    str informant_code 64-65
+    str response_code 66
+    int hh_size 67-69
+    str  visit_month  70-75
+    double multiplier 76-90
+}

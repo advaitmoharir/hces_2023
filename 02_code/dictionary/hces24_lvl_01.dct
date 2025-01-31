@@ -1,0 +1,24 @@
+infix dictionary {
+	str common_id 1-38
+    str survey_name 1-4
+    int year 5-8
+    str fsu_serial_no 9-13
+    byte sector 14
+    str state 15-16
+    str nss_region 17-19
+    str district 20-21
+    str stratum 22-23
+    str sub_stratum 24-25
+    str panel 26-27
+    str subsample 28
+    str fod_subregion 29-32
+    str sample_su_num 33-34
+    str sample_subdiv_num 35
+    str sec_stage_stratum_num 36
+    str sample_hhld_num 37-38
+    str questionnaire_num 39
+    int level 40-41
+    str svy_code 42
+    str subcode_reason 43
+    double multiplier 44-58
+}

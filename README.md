@@ -26,7 +26,7 @@ To generate the files in `04_output`, do the following
 
 1. Download and unzip the repo
 2. Create a folder called `3_raw` and add the raw txt files from the NSS site, available [here](https://microdata.gov.in/nada43/index.php/catalog/226). You should get 15 .txt files.
-3. Open the state project `hces.stpr`. From within the project, run first `0_master`, followed by `1_clean`
+3. Open the state project `hces_23.stpr`. From within the project, run first `0_master`, followed by `01_clean`
 4. This creates Stata and csv files for each level
 5. [OPTIONAL] If you want to get Parquet files, run the `convert_csv` file (change directory as needed) to do so.
 6. [FOR NON-STATA USERS] To convert the Parquet files to csv, open the `convert_csv` file and run the section which converts parquet to csv.

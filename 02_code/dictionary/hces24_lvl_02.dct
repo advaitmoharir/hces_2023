@@ -1,0 +1,24 @@
+infix dictionary {
+str common_id 1-38
+    str questionnaire_num 39
+    int level 40-41
+    str person_id 42-43
+    str rel_to_hoh 44
+    str gender 45
+    int age 46-48
+    str marital_status 49
+    str edu_level 50-51
+    int edu_years 52-53
+    str used_internet 54
+    int days_outside_home 55-56
+    str meals_daily 57
+    int meals_school 58-59
+    int meals_employer 60-61
+    int meals_others 62-63
+    int meals_payment 64-65
+    int meals_home 66-67
+    str member_status 68
+    str original_member 69
+    double multiplier 70-84
+}
+

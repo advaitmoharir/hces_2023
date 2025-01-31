@@ -1,0 +1,15 @@
+infix dictionary {
+    str common_id 1-38
+    str questionnaire_num 39
+    int level 40-41
+    str item_code 42-44
+    int num_firsthand_purchase 45-47
+    str is_purchased_onhire 48
+    double val_firsthand_purchase 49-56
+    double repair_cost 57-64
+    int num_secondhand_purchase 65-67
+    double val_secondhand_purchase 68-75
+    double tot_expenditure 76-83
+    double multiplier 84-98
+}
+

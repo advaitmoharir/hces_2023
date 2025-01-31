@@ -1,0 +1,28 @@
+infix dictionary {
+    str common_id 1-38
+    str questionnaire_num 39
+    int level 40-41
+    int hh_size 42-43
+    str employed_annual 44
+    str nco_2015 45-47
+    str nic_2008 48-52
+    str num_activities_income 53
+    str hasincome_selfemp_agri 54
+    str hasincome_wage_agri 55
+    str hasincome_casual_agri 56
+    str hh_type 57
+    str hoh_religion 58
+    str caste 59
+    str has_land 60
+    str land_type 61
+    double land_area 62-70
+    str has_house 71
+    str type_house 72
+    str source_cooking 73-74
+    str source_lighting 75
+    str type_rationcard 76
+    str is_rent 77
+    str has_pmgky 78
+    double multiplier 79-93
+}
+

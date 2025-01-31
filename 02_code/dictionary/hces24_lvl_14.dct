@@ -1,0 +1,11 @@
+infix dictionary {
+    str common_id 1-38
+    str questionnaire_num 39
+    int level 40-41
+    str section 42-46
+    str item_code 47-49
+    double value 50-57
+    double multiplier 58-72
+
+}
+
